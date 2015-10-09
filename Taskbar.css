@@ -1,0 +1,51 @@
+		#top_taskbar{
+			border: none;
+			background: transparent;
+			width: auto;
+			height: 70px;
+			min-width: 1200px;
+			margin: 0 auto;
+			position: relative;
+
+			/*border-bottom: 1px solid #ddd;*/
+		}
+		.clxheader{
+			width: 1200px;
+			padding: 15px 0;
+			background: transparent;
+			position: relative;
+			z-index: 99;
+			margin: 0 auto;
+		}
+		.logo{
+			float: left;
+			margin-left: 20px;
+		}
+		.taskbar{
+			float: right;
+			margin-top: 0;
+			
+			display: inline-block;
+			height: 40px;
+			width: 1020px;
+		}
+		#top_taskbar .clxheader .taskbar a { 
+			color: #444; 
+			font-size: 20px; 
+			text-decoration: none; 
+			margin-right: 50px; 
+			height: 38px; 
+			line-height: 38px; 
+			display: inline-block; 
+			font-family: Microsoft YaHei;
+		}
+		#top_taskbar .clxheader .taskbar a:hover { 
+			color: #888; 
+		}
+		/*#top_taskbar .clxheader .taskbar a.design { 
+			margin: 0 40px;
+			float: right; 
+			padding: 0 30px; 
+			color: #fff; 
+			background: #ee4545; 
+		}*/

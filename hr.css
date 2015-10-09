@@ -1,0 +1,19 @@
+hr.hr1
+{
+	border:solid  white 1px;
+	margin: auto;
+	margin-left: 100px;
+	margin-right: 95px;
+}
+hr.hr2
+{
+	border:solid  white 1px;
+	margin: auto;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+hr.title5{
+	border:solid  #008ECC 1px;
+	margin: auto;
+	margin-left: 355px;
+}
